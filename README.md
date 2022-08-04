@@ -12,5 +12,5 @@ Skills: Python / REACT / JS / HTML / CSS/ PHP/ Networking
 - 📫 How to reach me: markchizobaokafor@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Markjoezoba)  
+
 
